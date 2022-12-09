@@ -1,0 +1,11 @@
+This is advanced way of creating pages , i have merged basic operations for welcome page .
+
+You can use SpeakAPI class to let the computer speak your message.
+
+You can use DOM_Behemoth to recognize and manage form data , create this instance, when forum is submitted ,otherwise Behemoth will not get the data 
+
+You can RandomElementPlacer to place array html elements randomly on page .
+
+you can use Activator to make html element act like AI , use it for debugging or for fun
+
+// You can do much more with this , use your creativity without limits.
